@@ -15,8 +15,7 @@ yum install boost-devel.x86_64
 jsoncpp
 yum install jsoncpp-devel.x86_64
 
-汤老湿常用的 cpp 库(编译好的版本, 包含 结巴分词)
-https://gitee.com/HGtz2222/ThirdPartLibForCpp
+
 
 httplib
 https://github.com/yhirose/cpp-httplib
