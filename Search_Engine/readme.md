@@ -1,4 +1,4 @@
-相关资料: 
+本项目使用到以下开源库和工具，仅供参考。
 
 结巴分词
 https://github.com/yanyiwu/cppjieba
