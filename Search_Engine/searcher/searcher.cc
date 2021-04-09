@@ -96,7 +96,7 @@ DocInfo* Index::BuildForward(const string& line) {
     forward_index.push_back(std::move(doc_info));
     // 3. 返回结果
     // 注意体会这里可能存在的野指针问题. C++ 中的经典错误,
-    // 也是面试中的重要考点!!! return &doc_info;
+   
     return &forward_index.back();
 }
 
